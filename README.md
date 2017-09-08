@@ -8,7 +8,7 @@ Traditionally, template-matching algorithms have been used for things like digit
 
 Pattern recognition through template-matching is currently restricted in that it is only useful when dealing with vector spaces. However, problems of high complexity tend to deal with conceptually abstract relations and not with patterns dependent on space-time.
 
-**_1.2) System Objective_**
+**_1.2) System Objectives_**
 
 In the following framework, I propose a feasible solution for extending template-matching methods to topological space, like graphs and networks. The main objective is to ultimately uncover a mechanism for complex pattern recognition that uses template-matching methods, as this may substantially reduce the computational resources required for high-level pattern recognition.
 
