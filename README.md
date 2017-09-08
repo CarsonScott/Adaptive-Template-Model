@@ -39,3 +39,10 @@ A template graph is a graph that compares itself to another graph, called the in
 A sliding template is a template graph that traverses a larger graph and compares itself to the local subgraph around each node along the walk. The output of a sliding template is a graph where each node has an assigned similarity value in reference to the local subgraph around a specific input node. 
 
 Sliding templates at any point along their walk can be located using their origin nodes. They traverse a graph by moving their origin from the current or center node on the input graph to align with one of its connected neighbors. This means that each step along its walk, a sliding template selects a single node from the local subgraph, which then becomes the new center node (resulting in the previous center node becoming part of the new local subgraph).
+
+# 4. Comparisons
+**_4.1) Comparison Operators_**
+
+To better explain the abstract notion of taking two graphs and making some comparison between them, we’ll go through some simple examples (It might also be comforting to know that we’re barely stepping outside the realm of basic set theory). The process of “comparison” as we’ve discussed requires little more than elementary binary operations that you are probably familiar with. The following shows three examples of how binary operations are used to compare graphs whose nodes have exhibit a property of color.
+
+![]()
