@@ -1,4 +1,4 @@
-# A Template-Matching Framework for Topological Space
+# Template-Based Pattern Recognition in Topological Space
 
 Traditionally, template-matching algorithms have been used for things like digital image processing and visual pattern recognition. One simple example of this deals with taking a (typically very small) two-dimensional filter and sliding it across an image in order to detect low-level patterns of black-and-white pixels. 
 
