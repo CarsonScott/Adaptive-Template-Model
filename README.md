@@ -1,5 +1,9 @@
 # A Framework for Template-Matching in Topological Space
 
+Template-matching algorithms have traditionally been used in machine-learning for things like digital image processing, in which usually small, two-dimensional filters are slid across images to detect low-level patterns of visual stimuli. 
+
+These pattern-recognition methods are restricted in that they are limited to only work on vector spaces. Here I propose a framework for extending this template-matching mechanism to topological spaces such as networks and graphs, and potentially allowing the comprehension of more complex patterns that exist independently from their spatiotemporal properties.  
+
 ## 1. Templates
 
 **_1.1 Graph Templates_**
