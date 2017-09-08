@@ -1,4 +1,4 @@
-# Template Matching in Topological Space
+# A Framework for Template-Matching in Topological Space
 
 ## 1. Templates
 
