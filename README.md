@@ -14,7 +14,7 @@ In the following framework, I propose a feasible solution for extending template
 
 A graph is a collection of nodes connected by links, each with a certain set of properties than can take one of a finite amount of values at any given time. Every node in a graph has the same set of properties as every other node, and the same goes for links as well. Each graph is equipped with two property sets: one for nodes and one for links. While every component of one type shares an identical set of properties with the rest, its values can vary from node-to-node or link-to-link.
 
-**_1.2) Graph Attributes_**
+**_1.2) Component Properties_**
 
 Any two graphs that have identical property sets are said to be compatible. That is, they are similar enough to compare with one another. A comparison between graphs is a measurement of similarity between them. Similarity refers to number of attributes shared between two graphs, with respect to the number of attributes held by only one graph or the other.
 
