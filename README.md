@@ -20,7 +20,7 @@ Attributes not only references the properties of a graph’s nodes and links, bu
 
 ***
 
-### 2. Templates
+## 2. Templates
 
 **_2.1) Template Graphs_**
 
