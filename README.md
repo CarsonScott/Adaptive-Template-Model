@@ -45,7 +45,7 @@ Sliding templates at any point along their walk can be located using their origi
 
 ***
 
-# 4. Comparisons
+## 4. Comparisons
 
 **_4.1) Comparison Operators_**
 
