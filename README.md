@@ -1,4 +1,4 @@
-# Template-Based Pattern Recognition in Topological Space
+# Template-Based Approach to Pattern Recognition in Topological Spaces
 
 ## 1. Introduction
 
