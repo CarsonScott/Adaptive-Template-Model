@@ -34,6 +34,8 @@ Attributes not only references the properties of a graph’s nodes and links, bu
 
 A template graph is a graph that compares itself to another graph, called the input graph, by calculating a measurement call the similarity value. The input and template graphs are each equipped with an origin node, which is simply a node that acts as a universal reference point to the rest of the graph. The origin nodes are aligned and a comparison is made between them, resulting in said similarity value. This value measures the correspondence between a given input graph with the template graph, and thus presents information about a graph through a comparative process, rather than simply conveying information about the graph in isolation. 
 
+![](https://github.com/CarsonScott/Topological-Template-Matching/blob/master/img/template.png)
+
 **_3.2) Sliding Templates_**
 
 A sliding template is a template graph that traverses a larger graph and compares itself to the local subgraph around each node along the walk. The output of a sliding template is a graph where each node has an assigned similarity value in reference to the local subgraph around a specific input node. 
