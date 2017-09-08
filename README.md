@@ -1,6 +1,6 @@
 # Template Matching in Topological Space
 
-### 1.0 Templates
+## 1. Templates
 
 __1.1 Graph Templates__
 
