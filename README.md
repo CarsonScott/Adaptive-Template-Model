@@ -4,7 +4,7 @@ In the past, template-matching has traditionally been useful in machine-learning
 
 Pattern recognition through template-matching is currently restricted in that it is only useful when dealing with vector spaces. Unfortunately, problems of higher complexity are associated with patterns beyond spacetime, and tend toward more conceptually abstract relations. 
 
-In the following framework I propose a way to extend the template-matching process beyond vector space, and rather to operate on topological spaces like networks and graphs. The main goal is to propose a possible system for future algorithms to comprehend more complex patterns using template-matching processes, in an attempt to minimize there computational expense of high-level pattern recognition.  
+In the following framework I propose a way to extend the template-matching process beyond vector space, to include topological space like graphs and networks. The main objective is to propose a solution for future algorithms to process high-level patterns using template-matching, effectively minimizing the computational requirements of high-level pattern recognition.  
 
 ## 1. Templates
 
