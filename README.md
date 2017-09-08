@@ -1,6 +1,6 @@
 # A Framework for Template-Matching in Topological Space
 
-### 1. Templates
+## 1. Templates
 
 **_1.1 Graph Templates_**
 
