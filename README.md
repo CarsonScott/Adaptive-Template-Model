@@ -10,7 +10,7 @@ In the following framework, I propose a feasible solution for extending template
 
 **_1.1 Graph Templates_**
 
-A graph template (GT) is a subgraph that compares its topology with another graph. The output of a GT is a decimal value measuring the similarity between the input graph and the GT. Similarity is calculated by finding the number of nodes in the input graph that share a topology with a given node in the template graph, then dividing by the total number of nodes in the input graph.
+A graph template (GT) is a graph that compares its topology with another graph. The output of a GT is a decimal value measuring the similarity between the input graph and the GT. Similarity is calculated by finding the number of nodes in the input graph that share a topology with a given node in the template graph, then dividing by the total number of nodes in the input graph.
 
 Both the input and template graphs are equipped with origin nodes. An origin is simply a node in a graph that is viewed as its position or center. The origin of the template graph is aligned with that of the input graph, which allows a comparison to be made in order to calculate the similarity value.
 
