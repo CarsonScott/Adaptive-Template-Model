@@ -1,4 +1,4 @@
-# A Template-Driven Approach to High-Level Pattern Recognition
+# Adaptive Template Model of Intelligence
 
 ## 1. Introduction
 
