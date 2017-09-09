@@ -75,3 +75,16 @@ Each agent has a finite memory space that it uses to store/retrieve information 
 Once an agent’s resources fall below a certain amount, it “goes extinct” and is removed from the population. On the other hand if the amount of resources exceeds a certain amount, the agent “reproduces” and creates a duplicate agent, where a small chance of mutation can lead to differences in the properties of its associated graph template. 
 
 Since all computational systems have constraints on resources, an evolving population operates like a Darwinian zero-sums game, where the winners are the agents who can locate the greatest number of matching subgraphs during a walk.
+
+
+## 6. Adaptations
+
+**_6.1) Reproductive Adaptation_**
+
+An elementary agent, the simplest type of agent, selects actions by measuring the similarity for each neighbor and simply moves in the toward the highest value. No additional memory space is required, however an elementary agent will still die if its memory space decreases below a certain point. 
+
+The run-time of an elementary agent is brief unless it accumulates enough space to duplicate itself. This triggers the evolutionary process which potentially leads to brand new agents being formed, via mutations that occur in each new generation.
+
+**_6.2) Generative Adaptation_**
+
+When an elementary agent dies, its graph is replaced with the local subgraph around its last position. Agents rapidly pop in-and-out of existence, trying out new graphs until one takes hold. These graphs are called stable because they have the ability to sustain themselves for a relatively longer period of time.
