@@ -10,7 +10,7 @@ Pattern recognition through template-matching is currently restricted in that it
 
 **_1.2) System Objectives_**
 
-In the following framework, I propose a feasible solution for extending template-matching methods to topological space, like graphs and networks. The main objective is to ultimately uncover a mechanism for complex pattern recognition that uses template-matching methods, as this may substantially reduce the computational resources required for high-level pattern recognition.
+In the following framework, I propose a feasible solution for extending template-matching methods to topological space, like graphs and networks. The two main objectives are: 1. to uncover a mechanism for complex pattern recognition that uses template-matching methods, as this may substantially reduce the computational resources required for high-level pattern recognition, and 2. to provide a universal method of analogical processing that can be applied across all types of information.
 
 ***
 
