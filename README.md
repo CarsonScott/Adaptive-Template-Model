@@ -74,4 +74,4 @@ Each agent has a finite memory space that it uses to store/retrieve information 
 
 Once an agent’s resources fall below a certain amount, it “goes extinct” and is removed from the population. On the other hand if the amount of resources exceeds a certain amount, the agent “reproduces” and creates a duplicate agent, where a small chance of mutation can lead to differences in the properties of its associated graph template. 
 
-The competition for memory space among members a population is a zero-sum game, because the computational resources of a system is always finite. If the agents begin to overpopulate, meaning the demand for resources exceeds limitations of the system its running on, then all but the most-fit agents will begin to die out until an equilibrium is once again found.
+Since all computational systems have constraints on resources, an evolving population operates like a Darwinian zero-sums game, where the winners are the agents who can locate the greatest number of matching subgraphs during a walk.
