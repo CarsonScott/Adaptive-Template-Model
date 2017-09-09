@@ -79,12 +79,12 @@ Since all computational systems have constraints on resources, an evolving popul
 
 ## 6. Adaptations
 
-**_6.1) Reproductive Adaptation_**
+**_6.1) Reproductive Adaptations_**
 
 An elementary agent, the simplest type of agent, selects actions by measuring the similarity for each neighbor and simply moves in the toward the highest value. No additional memory space is required, however an elementary agent will still die if its memory space decreases below a certain point. 
 
 The run-time of an elementary agent is brief unless it accumulates enough space to duplicate itself. This triggers the evolutionary process which potentially leads to brand new agents being formed, via mutations that occur in each new generation.
 
-**_6.2) Generative Adaptation_**
+**_6.2) Generative Adaptations_**
 
 When an elementary agent dies, its graph is replaced with the local subgraph around its last position. Agents rapidly pop in-and-out of existence, trying out new graphs until one takes hold. These graphs are called stable because they have the ability to sustain themselves for a relatively longer period of time.
