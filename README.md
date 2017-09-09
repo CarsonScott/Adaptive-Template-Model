@@ -76,6 +76,7 @@ Once an agent’s resources fall below a certain amount, it “goes extinct” a
 
 Since all computational systems have constraints on resources, an evolving population operates like a Darwinian zero-sums game, where the winners are the agents who can locate the greatest number of matching subgraphs during a walk.
 
+***
 
 ## 6. Adaptations
 
